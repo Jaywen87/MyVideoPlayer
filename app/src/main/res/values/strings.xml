@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyVideoPlayer</string>
+    <string name="refresh">refresh</string>
+    <string name="stop_refresh">stop refresh</string>
+    <string name="title_activity_video_player">VideoPlayer</string>
+    <string name="video_width_height">Video size:</string>
+    <string name="video_title">Video name:</string>
+    <string name="video_size">Video file size:</string>
+    <string name="created_time">Create Time:</string>
+    <string name="unknown">unknown</string>
+    <string name="help">help</string>
+    <string name="string_help_text">当前应用缺少必要权限。请点击“设置”</string>
+    <string name="quit">quit</string>
+    <string name="settings"></string>
+
+</resources>
